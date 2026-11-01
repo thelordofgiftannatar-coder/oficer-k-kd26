@@ -1,0 +1,16 @@
+{
+  "name": "officer-k-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Officer K music & media player",
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/app": "^6.0.1",
+    "@capacitor/core": "^6.1.2",
+    "@jofr/capacitor-media-session": "^4.0.1"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^6.1.2"
+  }
+}
